@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### Welcome to Conference on Sustainability by AICTE and St Ann's College for Women.
+Today’s corporate sector is increasingly emphasizing on sustainability as a key to business success and prosperity. The bottom-line attention of corporates revolves around three important pillars of sustainability- people, profits and environment. To sustain in competitive market, companies must monitor and asses the emerging trends in order to help maintain an existing business or a start up. 
 
-You can use the [editor on GitHub](https://github.com/podilaaditya/sustainability/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### The conference aims 
+To bring together various leading academicians, researchers, industry experts and students to have enriching discussions on  latest trends of the new decade in areas of business, management and entrepreneurship.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To highlight different opportunities and challenges related to business that provides sustainable solutions to various stakeholders and policy makers. 
 
-### Markdown
+The conference further aims at brining industry academia onto a common platform to introspect discuss and present the prospects and sustainable solutions in business, management and entrepreneurship that helps organisations to build on brand value and image.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 
+Conference intends to create shared understanding of issues and challenges in Business, management and entrepreneurship and to highlight the role of sustainable solutions as a key parameter to success. Enhance mutual learning by providing insights into emerging trends in the present context of business
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/podilaaditya/sustainability/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Authors and Contributors
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-- Needs to be filled
